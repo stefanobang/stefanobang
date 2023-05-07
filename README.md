@@ -6,6 +6,7 @@ pro한 프로그래머가 되자!
 <div align="center">
     <img align="center"  src="https://github.com/stefanobang/stefanobang/blob/main/assets/frontImage1.png" width="500px" alt="welcome-image">
 </div>
+<br />
 
 ### 💬 About Me
 
