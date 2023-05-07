@@ -8,16 +8,17 @@ Hello There ヾ(￣ ▽ ￣)
 
 ### 💬 About Me
 
-- 👋 Hi, I’m @stefanobang
+- 👋 Hi, I’m @stefanobang or 방대성
 - 👀 I’m interested in ... becoming a PRO programmer
 - 🌱 I’m currently learning ... a lot of languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... AI and server
+
 
 <br />
 <br />
 
 ### 📡 Find Me On
+- 📫 How to reach me ...
 
 ### 🔧 Tools / Language
 
