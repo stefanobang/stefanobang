@@ -7,7 +7,6 @@ pro한 프로그래머가 되자!
     <img align="center"  src="https://github.com/stefanobang/stefanobang/blob/main/assets/frontImage1.png" width="500px" alt="welcome-image">
 </div>
 <br />
-<img align="right" height="300" width="375" alt="Github metrics" src="https://github.com/stefanobang/stefanobang/blob/main/github-metrics.svg"/>
 
 ### 💬 About Me
 
@@ -24,6 +23,8 @@ pro한 프로그래머가 되자!
 - 📫 How to reach me ...\
 <a href="https://www.jobkorea.co.kr/User/Resume/View?rNo=21981127"><code><img alt="잡코리아" 
     src="https://img.shields.io/badge/Jobkorea | 잡코리아-%230077B5.svg?style=flat-square" /></code></a>
+<a href="https://velog.io/@stefanob11"><code><img alt="stefanob11 | velog" 
+    src="https://img.shields.io/badge/velog-%23000000.svg?style=flat-square" /></code></a>
 
 ### 🔧 Tools / Language
 
