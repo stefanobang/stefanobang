@@ -19,6 +19,12 @@ Bang!
 <br />
 <br />
 
+### 🌱 Stats
+![](https://raw.githubusercontent.com/stefanobang/stefanobang123/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/stefanobang/stefanobang123/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/stefanobang/stefanobang123/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/stefanobang/stefanobang123/master/profile-summary-card-output/nord_dark/3-stats.svg)
+
 ### 📡 Find Me On
 - 📫 How to reach me ...\
 <a href="https://www.jobkorea.co.kr/User/Resume/View?rNo=21981127"><code><img alt="잡코리아" 
