@@ -31,7 +31,8 @@ Bang!
     src="https://img.shields.io/badge/Jobkorea | 잡코리아-%230077B5.svg?style=flat-square" /></code></a>
 <a href="https://velog.io/@stefanob11"><code><img alt="stefanob11 | velog" 
     src="https://img.shields.io/badge/velog | stefanob11-%339933.svg?style=flat-square" /></code></a>
-    
+    <a href="https://www.linkedin.com/in/%EB%8C%80%EC%84%B1-%EB%B0%A9-b53170259/"><code><img alt="stetefano | LinkedIn" 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code></a>
 
 
 ### 🔧 Tools / Language
