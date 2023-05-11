@@ -9,15 +9,12 @@ Bang!
 <br />
 
 ### 💬 About Me
+Once I start something, I to faithfully finish what I started. Even if there is a mistake, I try to understand and learn from my mistakes to avoid the same mistake myself. I will try my best to understand any advice or criticism so that I could become a PRO programmer. 
 
 - 👋 Hi, I’m @stefanobang or 방대성
 - 👀 I’m interested in ... becoming a PRO programmer
 - 🌱 I’m currently learning ... a lot of languages
 - 💞️ I’m looking to collaborate on ... AI and server
-
-
-<br />
-<br />
 
 ### 🌱 Stats
 [![](https://raw.githubusercontent.com/stefanobang/stefanobang123/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
